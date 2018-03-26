@@ -1,6 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
 /*! Typebase.less v0.1.0 | MIT License */
 /* Setup */
+
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,500,500i,700,700i");
+
 html {
   font-size: 16px;
 }
@@ -17,7 +20,7 @@ html {
 
 html {
   /* Change default typefaces here */
-  font-family: serif;
+  font-family: Roboto, serif;
   font-size: 137.5%;
   -webkit-font-smoothing: antialiased;
 }
