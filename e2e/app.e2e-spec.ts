@@ -1,6 +1,6 @@
 import { AppPage } from "./app.po";
 
-describe("test-one App", () => {
+describe("NICE Favorite Food List App", () => {
   let page: AppPage;
 
   beforeEach(() => {
