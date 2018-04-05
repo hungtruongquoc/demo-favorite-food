@@ -56,5 +56,6 @@ typings/
 
 # dotenv environment variables file
 .env
-
+# The PHPStorm configuration folder
+.idea
 /package-lock.json

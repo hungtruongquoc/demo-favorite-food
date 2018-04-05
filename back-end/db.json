@@ -1,0 +1,12 @@
+{
+  "foods": [
+    {"id": 1, "name": "Pizza"},
+    {"id": 2, "name": "Lasagna"},
+    {"id": 3, "name": "Spaghetti"},
+    {"id": 4, "name": "Salad"}
+  ],
+  "favorites": [
+    {"id": "F1", "foods": 1, "user": "Hung"},
+    {"id": "F2", "foods": 3, "user": "Randy"}
+  ]
+}
